@@ -24,12 +24,15 @@ window.addEventListener('load', () => {
 });
 
 document.addEventListener("DOMContentLoaded", function () {
-  document.addEventListener('mouseup', function () {
+  const removeGrabClass = function () {
       const grabbedCard = document.querySelector('.card.grab');
       if (grabbedCard) {
           grabbedCard.classList.remove('grab');
       }
-  });
+  };
+
+  document.addEventListener('mouseup', removeGrabClass);
+  document.addEventListener('touchend', removeGrabClass);
 
   const cards = document.querySelectorAll('.card');
 
@@ -38,7 +41,15 @@ document.addEventListener("DOMContentLoaded", function () {
           this.classList.add('grab');
       });
 
+      card.addEventListener('touchstart', function () {
+          this.classList.add('grab');
+      });
+
       card.addEventListener('mouseleave', function () {
+          this.classList.remove('grab');
+      });
+
+      card.addEventListener('touchend', function () {
           this.classList.remove('grab');
       });
   });
