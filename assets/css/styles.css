@@ -1,0 +1,64 @@
+/* Apply a basic style to the grid container */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); 
+    gap: 20px; /* Adjust the gap between cards */
+    grid-row-gap: 40px; /* Adjust the gap between rows */
+}
+
+/* Style for each card */
+.card {
+    cursor: pointer;
+    display: block;
+    min-height: 120px; 
+    padding: 12px;    
+    user-select: none;
+    transform: translateZ(0);
+}
+
+.card:hover {
+    box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 1px 3px 1px rgba(60, 64, 67, .15);
+    text-decoration: none; /* Remove underline for the link */
+    color: inherit; /* Use the default color for the link */
+}
+
+/* Add a container for the image to control aspect ratio */
+.image-container {
+    overflow: hidden;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    position: relative;
+}
+
+.card img {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 20px;
+    object-fit: cover;
+    position: absolute;
+}
+
+/* Style for the "Learn more" text */
+.learn-more {
+    color: #1b73e8; 
+}
+
+/* Add some spacing and styling to the heading and description */
+.card h1, .card p {
+    margin-top: 10px;
+}
+
+.project-title {
+    color: black;
+    font-size: 20px; /* Adjust the font size as needed */
+}
+
+.project-description {
+    color: #5f6367; /* Use a lighter gray color code */
+    box-sizing: border-box;
+}
+
+.card.grab {
+    outline: 2px solid #1b73e8;
+}
