@@ -59,7 +59,7 @@ collections:
       - air-traffic-control.md
       - pacman-ai.md
       - lets-beat-stl.md
-      - notepad.md
+      - autopad.md
       - snake.md
       - course-notes.md
     output: true
