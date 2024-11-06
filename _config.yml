@@ -56,6 +56,9 @@ plugins:
 collections:
   projects:
     order:
+      - product-recognition.md
+      - multiple-couriers-planning.md
+      - sentence-reordering.md
       - air-traffic-control.md
       - pacman-ai.md
       - lets-beat-stl.md
