@@ -7,7 +7,7 @@ layout: page
 
 # About
 
-<img src="..\assets\images\avatar.png" style="width: 200px; border-radius: 50%; float: right;">
+<img src="/assets/images/avatar.png" style="width: 200px; border-radius: 50%; float: right;">
 
 Second-year AI student at the University of Bologna with a B.Sc. in Computer and Telecommunications Engineering from the University of Cassino. Strong foundation in mathematics and expertise in the electromagnetic field.
 
