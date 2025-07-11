@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-17 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I will be giving an oral presentation for my paper at the ArgMining workshop @ ACL 2025 in Vienna!
