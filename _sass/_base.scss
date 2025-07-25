@@ -1444,3 +1444,19 @@ figure.cover {
 .poster-item img:hover {
   transform: scale(1.03);
 }
+
+@media (max-width: 600px) {
+  .poster-gallery {
+    justify-content: center;
+  }
+
+  .poster-item {
+    width: 150px;
+    margin: 0 auto;
+  }
+
+  .poster-item img {
+    max-width: 100%;
+    height: auto;
+  }
+}
