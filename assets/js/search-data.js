@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-posters",
+          title: "posters",
+          description: "A collection of academic posters presented at conferences and scientific events.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/posters/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
