@@ -1417,3 +1417,30 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Poster gallery
+.poster-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+.poster-item {
+  width: 220px;
+  text-align: center;
+  font-size: 0.9em;
+}
+
+.poster-item img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+.poster-item img:hover {
+  transform: scale(1.03);
+}
