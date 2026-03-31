@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Master's student in Artificial Intelligence at the University of Bologna. My research interests focus on multimodal AI, particularly at the intersection of Natural Language Processing, Computer Vision, and Audio. I've recently completed an R&D internship in the US.
+I am an incoming PhD student at the University of Bonn, advised by Prof. Jürgen Gall. I hold an MSc in Artificial Intelligence from the University of Bologna. My research interests focus on multimodal AI, particularly at the intersection of Natural Language Processing, Computer Vision, and Audio. I've recently completed an R&D internship in the US.
