@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving an oral presentation of my paper at the ArgMining workshop @ ACL 2025 in Vienna!
+I will give an oral presentation of my paper at the ArgMining workshop @ ACL 2025 in Vienna.
