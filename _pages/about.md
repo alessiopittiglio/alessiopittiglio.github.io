@@ -10,8 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 2.039</p>
-    <p>University of Bonn</p>
-    <p>Institute of Computer Science</p>
     <p>Friedrich-Hirzebruch-Allee 8</p>
     <p>53115 Bonn, Germany</p>
 
