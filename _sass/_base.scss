@@ -1460,3 +1460,13 @@ figure.cover {
     height: auto;
   }
 }
+
+// Keep links in the subtitle visually neutral
+.post-header .desc a {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

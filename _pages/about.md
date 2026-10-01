@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ""
+subtitle: PhD Student, University of Bonn
 
 profile:
   align: right
@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the Computer Vision Group at the [University of Bonn](https://www.uni-bonn.de), supervised by [Prof. Jürgen Gall](https://pages.iai.uni-bonn.de/gall_juergen/). My research focuses on visual foundation models, self-supervised learning and representation learning. I am also involved in [PhenoRob](https://www.phenorob.de/) and [AgriScienceFM](https://www.agriscience.fm/). Previously, I received my MSc in Artificial Intelligence from the University of Bologna and worked as an R&D intern at Datalogic in the US.
+I am part of the [Computer Vision Group](https://pages.iai.uni-bonn.de/gall_juergen/) at the University of Bonn, supervised by Prof. Jürgen Gall, and a member of the [Lamarr Institute](https://lamarr-institute.org/).
+
+ My research focuses on visual foundation models, self-supervised learning and representation learning. I am also involved in [PhenoRob](https://www.phenorob.de/) and [AgriScienceFM](https://www.agriscience.fm/). Previously, I received my MSc in Artificial Intelligence from the University of Bologna and worked as an R&D intern at Datalogic in the US.
