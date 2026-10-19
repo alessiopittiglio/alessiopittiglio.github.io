@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first paper, *"Leveraging context for multi-modal fallacy classification in political debates"* was accepted at the ArgMining Workshop @ ACL 2025.
+My first paper, *"Leveraging Context for Multimodal Fallacy Classification in Political Debates"*, was accepted at the ArgMining Workshop @ ACL 2025.
