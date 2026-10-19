@@ -8,7 +8,7 @@ middle_name:
 last_name: Pittiglio
 contact_note:
 
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >- # the ">-" symbol means to ignore newlines until "footer_text:"
   Personal website of Alessio Pittiglio.
 footer_text:
 
