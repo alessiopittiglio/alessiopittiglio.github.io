@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/posters/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "news-i-started-a-6-month-r-amp-amp-d-internship-at-datalogic-in-the-u-s",
           title: 'I started a 6-month R&amp;amp;amp;D internship at Datalogic in the U.S.',
           description: "",
