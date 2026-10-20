@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received my MSc in Artificial Intelligence (110/110 cum laude) from the University of Bologna.
+I graduated with an MSc in Artificial Intelligence from the University of Bologna.

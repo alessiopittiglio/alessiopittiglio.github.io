@@ -211,6 +211,11 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: news
+    values:
+      sitemap: false
 
 sass:
   style: compressed

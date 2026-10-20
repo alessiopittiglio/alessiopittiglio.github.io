@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started a 6-month R&D internship at Datalogic in the U.S.
+I started a six-month R&D internship at Datalogic in the US.
